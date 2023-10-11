@@ -1,0 +1,5 @@
+package com.pcsetting.example;
+
+public class HW5 {
+	System.out.println("八進位");
+}
