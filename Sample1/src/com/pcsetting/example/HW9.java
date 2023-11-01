@@ -5,7 +5,6 @@ import java.io.InputStreamReader;
 public class HW9 {
 
 	public static void main(String[] args) throws IOException {
-		// TODO Auto-generated method stub
      System.out.println("請輸入一個整數:");
      
      BufferedReader br1=

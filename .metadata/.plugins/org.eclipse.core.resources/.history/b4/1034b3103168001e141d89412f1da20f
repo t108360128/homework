@@ -1,6 +1,0 @@
-package com.pcsetting.example;
-
-public class Sample1 {
-	System.out.print("歡迎使用java!");
-	System.out.print("歡迎使用java吧!");
-}
