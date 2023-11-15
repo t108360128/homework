@@ -10,8 +10,8 @@ public class Sample2_9 {
     System.out.println("請輸入整數");
     BufferedReader br =
     		new BufferedReader(new InputStreamReader(System.in));
-    String str = br.readLine();
-    int res=Integer.parseInt(str);
+   
+    int res=Integer.parseInt(br.readLine());
     char ans=(res==1)?'A':'B';
     System.out.println("選擇了"+ans+"路線");
 	}
